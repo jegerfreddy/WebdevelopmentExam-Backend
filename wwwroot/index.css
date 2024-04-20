@@ -1,0 +1,16 @@
+.navButton {
+    font-size: 1.5rem;
+}
+
+.infoArticle {
+    filter: drop-shadow(0 .5rem 0.75rem black);
+}
+
+.infoArticle .url {
+    font-size: 1rem;
+}
+
+.description {
+    font-size: 1.1rem;
+    font-family: monospace;
+}

@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/images/driver1.jpg",
+      "PackagePath": "staticwebassets/images/driver1.jpg"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/images/driver2.jpg",
+      "PackagePath": "staticwebassets/images/driver2.jpg"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/images/driver3.jpg",
+      "PackagePath": "staticwebassets/images/driver3.jpg"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/images/unknownCharacter.png",
+      "PackagePath": "staticwebassets/images/unknownCharacter.png"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/index.css",
+      "PackagePath": "staticwebassets/index.css"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/index.js",
+      "PackagePath": "staticwebassets/index.js"
+    },
+    {
+      "Id": "/Users/vetlemacos/Desktop/Skole/Eksamen/Webutvikling/kandidat-2094 webutvikling/F1API/wwwroot/modules/ApiInfoModule.js",
+      "PackagePath": "staticwebassets/modules/ApiInfoModule.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.F1API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.F1API.props",
+      "PackagePath": "build\\F1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.F1API.props",
+      "PackagePath": "buildMultiTargeting\\F1API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.F1API.props",
+      "PackagePath": "buildTransitive\\F1API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
